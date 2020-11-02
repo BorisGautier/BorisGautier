@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻💫 Welcome to my Home Page
+
+- 👨‍💻 I’m a Mobile & Web App developer / Project Manager / Software Engineer
+- ❤️ Android, Java, Kotlin, Flutter, Laravel
+- 🔭 I’m currently working for [GeOsm](https://github.com/GeOsm-Project) as Software Development Engineer
+- 💬 French & English
+- ⚡ From Cameroon
+
+![github stats](https://github-readme-stats.vercel.app/api?username=BorisGautier&show_icons=true)
+
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
+
+
