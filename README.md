@@ -21,6 +21,10 @@
      />
 </p>
 
+<figure><embed src="https://wakatime.com/share/@Boris_Gautier/dc88bdfb-f9de-495b-82da-8993328f1ca9.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Boris_Gautier/3685602b-6450-4bde-be22-d91eb5c99d4d.svg"></embed></figure>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
 
 
