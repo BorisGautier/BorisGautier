@@ -23,7 +23,7 @@
 
 ---
 
-<img width="400" src="https://wakatime.com/share/@Boris_Gautier/3685602b-6450-4bde-be22-d91eb5c99d4d.svg"></img>
+<img width="400" src="https://wakatime.com/share/@Boris_Gautier/860be91a-8c44-4bf0-b3f6-f6ee78cb2e38.svg"></img>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
 
