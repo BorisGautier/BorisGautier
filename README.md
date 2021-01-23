@@ -13,6 +13,14 @@
 
 ---
 
+### Global Stats
+<p>
+    <img width="600"  
+         src="https://metrics.lecoq.io/BorisGautier?id=BorisGautier" 
+         alt="BorisGautier Github Metrics"
+     />
+</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
 
 
