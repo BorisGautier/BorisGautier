@@ -29,17 +29,14 @@ I like writing,sharing my knowledge with other engineers.
 
 <img width="400" src="https://wakatime.com/share/@Boris_Gautier/860be91a-8c44-4bf0-b3f6-f6ee78cb2e38.svg"></img>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
+<br />
+[![linkedin_Follow](https://img.shields.io/badge/linkedin-Follow-blue)](https://www.linkedin.com/in/boris-gautier-tchoukouaha-420262143/)
+
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/BorisGautier/count.svg" alt ="Loading">
 
 <br />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Boris_Gauty.svg?style=social)](https://twitter.com/Boris_Gauty)
-
-
-### Connect with me:
-
-[<img align="left" alt="Boris_Gauty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>]
-[<img align="left" alt="boris-gautier-tchoukouaha-420262143 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
 
 
