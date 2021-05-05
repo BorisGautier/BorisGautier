@@ -15,7 +15,7 @@ I like writing,sharing my knowledge with other engineers.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BorisGautier&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtoori"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisGautier"></img>
 
 ---
 
