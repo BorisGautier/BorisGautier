@@ -32,6 +32,8 @@ I like writing,sharing my knowledge with other engineers.
      />
 </p>
 
+[![Gautier's github activity graph](https://activity-graph.herokuapp.com/graph?username=BorisGautier&theme=xcode)](https://github.com/BorisGautier)
+
 ---
 
 <img width="400" src="https://wakatime.com/share/@Boris_Gautier/860be91a-8c44-4bf0-b3f6-f6ee78cb2e38.svg"></img>
