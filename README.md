@@ -5,7 +5,7 @@
 
 <br />
 
-#### 💻💫 Welcome to my Home Page
+#### 💻💫 Welcome to my Github Home page
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BorisGautier" alt="BorisGautier" /></a> </p>
 
