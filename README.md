@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Visitors Count
+
 <img align="left" src = "https://profile-counter.glitch.me/BorisGautier/count.svg" alt ="Loading">
 
 <br />
@@ -29,6 +30,7 @@ I like writing,sharing my knowledge with other engineers.
 ---
 
 ### Global Stats
+
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/BorisGautier?id=BorisGautier" 
@@ -38,19 +40,18 @@ I like writing,sharing my knowledge with other engineers.
 
 [![Gautier's github activity graph](https://activity-graph.herokuapp.com/graph?username=BorisGautier&theme=xcode)](https://github.com/BorisGautier)
 
+[![wakatime-stats](https://github.com/BorisGautier/BorisGautier/blob/main/images/stat.svg)](https://wakatime.com/@Boris_Gautier)
+
 ---
 
 <img width="400" src="https://wakatime.com/share/@Boris_Gautier/860be91a-8c44-4bf0-b3f6-f6ee78cb2e38.svg"></img>
-
 
 <p align="left"> <a href="https://twitter.com/Boris_Gauty" target="blank"><img src="https://img.shields.io/twitter/follow/Boris_Gauty?logo=twitter&style=for-the-badge" alt="baimamjj" /></a> </p>
 
 [![linkedin_Follow](https://img.shields.io/badge/linkedin-Follow-blue)](https://www.linkedin.com/in/boris-gautier-tchoukouaha-420262143/)
 
 ### Visitors Count
+
 <img align="left" src = "https://profile-counter.glitch.me/BorisGautier/count.svg" alt ="Loading">
 
 <br />
-
-
-
