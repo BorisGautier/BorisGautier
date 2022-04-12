@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 ### Visitors Count
 
