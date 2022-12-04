@@ -18,7 +18,7 @@ I like writing,sharing my knowledge with other engineers.
 - ❤️ Android, Java, Kotlin, Flutter, Laravel,Docker
 - 🔭 I’m currently working for [GeOsm](https://github.com/GeOsmFamily) as Software Development Engineer
 - 💬 French & English
-- ⚡ My Personal WebSite [My Website](https://me.tbg.cm/)
+- ⚡ My Personal WebSite [My Website](https://borisgauty.com/)
 - ⚡ From Cameroon
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BorisGautier&show_icons=true)
