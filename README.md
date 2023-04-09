@@ -38,8 +38,6 @@ I like writing,sharing my knowledge with other engineers.
      />
 </p>
 
-[![Gautier's github activity graph](https://activity-graph.herokuapp.com/graph?username=BorisGautier&theme=xcode)](https://github.com/BorisGautier)
-
 [![wakatime-stats](https://github.com/BorisGautier/BorisGautier/blob/main/images/stat.svg)](https://wakatime.com/@Boris_Gautier)
 
 ---
