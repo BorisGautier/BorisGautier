@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BorisGautier" alt="BorisGautier" /></a> </p>
 
-I am a Software & SI engineer with experience in building intelligent & scalable applications using Flutter | Kotlin & Java | Angular | Laravel
+I'm a Software & SI engineer with experience in building intelligent & scalable applications using Flutter | Kotlin & Java | Angular | Laravel
 I love mobile apps, distributed systems, open source projects and the challenges associated with them.
 I like writing,sharing my knowledge with other engineers.
 
