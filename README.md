@@ -16,7 +16,7 @@ I like writing,sharing my knowledge with other engineers.
 
 - 👨‍💻 I am a Mobile,SIG & Web App developer / Project Manager / Software Engineer
 - ❤️ Android, Java, Kotlin, Flutter, Laravel,Docker
-- 🔭 I’m currently working for [GeOsm](https://github.com/GeOsmFamily) as Software Development Engineer
+- 🔭 I’m currently working for GPChat as CEO
 - 💬 French & English
 - ⚡ My Personal WebSite [My Website](https://borisgauty.com/)
 - ⚡ From Cameroon
