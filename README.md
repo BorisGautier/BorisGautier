@@ -19,7 +19,7 @@ I like writing,sharing my knowledge with other engineers
 - 🔭 I’m currently working for GPChat as CEO
 - 💬 French & English
 - ⚡ My Personal WebSite [My Website](https://borisgauty.com/)
-- ⚡ From Cameroon
+- ⚡ From Cameroon.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BorisGautier&show_icons=true)
 
