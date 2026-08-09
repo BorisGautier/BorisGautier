@@ -80,7 +80,7 @@ Modern communication platform focused on messaging, communities and intelligent 
 
 ---
 
-## 📄 CVGenius
+## 📄 CVBrain
 
 AI-powered platform helping people generate optimized professional CVs and improve employability.
 
